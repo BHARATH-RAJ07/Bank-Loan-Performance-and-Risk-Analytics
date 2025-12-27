@@ -44,6 +44,10 @@ This project solves these challenges by providing a centralized BI reporting sys
 - Excel / CSV Dataset – Loan data source
 
 ---
+## Live Power BI Dashboard
+Explore the interactive Power BI report here:  
+[View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/1eec8b0e-77ab-48fa-8837-64ca28d54185/a5f3304bbd23d8346e4e?experience=power-bi)
+
 
 ## Dashboard 1: Summary (Executive View)
 
